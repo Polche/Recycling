@@ -1,0 +1,11 @@
+<context id="recycling" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+
+  		<projection type="grid" id="Grid"></projection>
+  		<projection type="value layer" id="Value Layer"></projection>
+  		<projection type="network" id="Social network"></projection>
+  		
+ 
+  	
+</context>
